@@ -1,0 +1,3 @@
+- karakter pada bagian method "menyerang" dipisah jadi 3 class
+- karakter class abstract
+- penembak buat 3 class Penembak, Pemukul, Pengendara
